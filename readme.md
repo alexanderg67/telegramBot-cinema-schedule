@@ -1,4 +1,4 @@
-# Project Title
+# Telegram Bot-Cinema
 
 Telegram bot( node.js). Бот  выдает расписание кино с выбором города, даты, кинотеатра
 
