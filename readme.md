@@ -8,6 +8,6 @@ Telegram bot( node.js). Бот  выдает расписание кино с в
 
 ### Installing
 * Open .env and set Telegram token 
-* nodemon index.js
+* npm run start
 
  
